@@ -1,2 +1,2 @@
 # serial_comm_ext
-Extension bridge for javascript &lt;-> serial communication on Google Chrome.
+Extension bridge for javascript <-> serial communication on Google Chrome.

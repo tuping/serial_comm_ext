@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "Serial Comm - Extension",
+  },
+  "extDescription": {
+    "message": "Extension bridge for javascript <-> serial communication.",
+  }
+}

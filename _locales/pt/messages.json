@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "Serial Comm - Extensão",
+  },
+  "extDescription": {
+    "message": "Extensão da ponte para comunicação javascript <-> serial."
+  }
+}
